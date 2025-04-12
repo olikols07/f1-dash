@@ -1,3 +1,5 @@
+<h1>Forked for me trying to self-host it</h1>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dash/public/tag-logo.png" width="200">
